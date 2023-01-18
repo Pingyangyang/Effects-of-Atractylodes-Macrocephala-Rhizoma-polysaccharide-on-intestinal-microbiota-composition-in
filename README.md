@@ -6,9 +6,8 @@ Authors: YangPing,
 
 Other contributors: ChangxuLi, LihongWang, HongZhao 
 
-Date created: 2023-01-05
+Date created: 2023-01-18
 
-Date modified: 2023-01-10
 #Dataset Attribution
 Dataset Title: Data for the article“Effects of Atractylodes Macrocephala Rhizoma polysaccharide on intestinal microbiota composition in rats with mammary gland hyperplasia”
 
